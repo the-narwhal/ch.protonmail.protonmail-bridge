@@ -31,7 +31,7 @@ github.com/Masterminds/semver/v3
 # github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf
 ## explicit; go 1.17
 github.com/ProtonMail/bcrypt
-# github.com/ProtonMail/gluon v0.17.1-0.20260901104218-7e800978ab4a
+# github.com/ProtonMail/gluon v0.17.1-0.20260804145626-5e16fef13166
 ## explicit; go 1.26.1
 github.com/ProtonMail/gluon
 github.com/ProtonMail/gluon/async
@@ -113,7 +113,7 @@ github.com/ProtonMail/go-crypto/openpgp/x448
 # github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f
 ## explicit; go 1.12
 github.com/ProtonMail/go-mime
-# github.com/ProtonMail/go-proton-api v0.4.1-0.20260901104215-8a62023d3e38
+# github.com/ProtonMail/go-proton-api v0.4.1-0.20260805144911-aa74ef400fcd
 ## explicit; go 1.26.1
 github.com/ProtonMail/go-proton-api
 github.com/ProtonMail/go-proton-api/pkg/utils

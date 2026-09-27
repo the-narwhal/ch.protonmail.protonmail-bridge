@@ -13,20 +13,20 @@
   type: archive
   url: https://proxy.golang.org/github.com/!masterminds/semver/v3/@v/v3.4.0.zip
 - dest: vendor/github.com/ProtonMail/gluon
-  sha256: 7b73a90b8381aea509c936f5921bf94208b7b022321a7122d905d165dd17ff02
+  sha256: 7d046317da841ec60504270df5ec6eafd3ff3f8981362c94168fa2dbb876d3ca
   strip-components: 3
   type: archive
-  url: https://proxy.golang.org/github.com/!proton!mail/gluon/@v/v0.17.1-0.20260901104218-7e800978ab4a.zip
+  url: https://proxy.golang.org/github.com/!proton!mail/gluon/@v/v0.17.1-0.20260804145626-5e16fef13166.zip
 - dest: vendor/github.com/ProtonMail/go-autostart
   sha256: 63ea1804386473bc2a943dadc10f32db756ff20c5baed763469c0cce138bc4b6
   strip-components: 3
   type: archive
   url: https://proxy.golang.org/github.com/!proton!mail/go-autostart/@v/v0.0.0-20260210134425-40a9013f5ef4.zip
 - dest: vendor/github.com/ProtonMail/go-proton-api
-  sha256: 3d7ce106940916e6a7cd356754b133029d0d5d18aabbf286e6107a5d28b3372d
+  sha256: 19fa112eb86553667a6ed19ba4f010f60eb0626adad291411938b0b472682fef
   strip-components: 3
   type: archive
-  url: https://proxy.golang.org/github.com/!proton!mail/go-proton-api/@v/v0.4.1-0.20260901104215-8a62023d3e38.zip
+  url: https://proxy.golang.org/github.com/!proton!mail/go-proton-api/@v/v0.4.1-0.20260805144911-aa74ef400fcd.zip
 - dest: vendor/github.com/ProtonMail/gopenpgp/v2
   sha256: 671f8e6cc670b92ed65e3344b7bfd79816b17820fee12ee3eac2d090175081ae
   strip-components: 4
